@@ -10,3 +10,6 @@ var persona =new Person();
 persona.Id = 5;
 persona.Name = "Herik";
 Console.WriteLine($"Hola {persona.Name} bienvenido. Tu Id es {persona.Id}");
+
+
+Console.WriteLine("Ahora puedes procesar tu información.");
