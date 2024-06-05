@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\CsharpProjects\\testconsole_net8\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\CsharpProjects\\testconsole_net8\\TestProject.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\CsharpProjects\\testconsole_net8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
