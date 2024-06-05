@@ -7,5 +7,6 @@ audulentOrderIDs[3]="sdfs1d2";
 */
 //Console.WriteLine(fraudulentOrderIDs.Length);
 var persona =new Person();
+persona.Id = 5;
 persona.Name = "Herik";
-Console.WriteLine($"Hola {persona.Name} bienvenido");
+Console.WriteLine($"Hola {persona.Name} bienvenido. Tu Id es {persona.Id}");

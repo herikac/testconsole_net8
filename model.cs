@@ -1,6 +1,6 @@
 public class Person
 {
-  private int id = ""; // field
+  private int id = 0; // field
   private string name = ""; // field
 
   public int Id{
