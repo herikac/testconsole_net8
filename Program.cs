@@ -9,4 +9,6 @@ audulentOrderIDs[3]="sdfs1d2";
 var persona =new Person();
 persona.Id = 5;
 persona.Name = "Herik";
-Console.WriteLine($"Hola {persona.Name} bienvenido. Tu Id es {persona.Id}");
+persona.Age = 37;
+
+Console.WriteLine($"Hola {persona.Name} bienvenido. Tu Id es {persona.Id} y tu edad es {persona.Age}"); 
