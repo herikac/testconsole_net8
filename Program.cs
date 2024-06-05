@@ -13,4 +13,4 @@ persona.Age = 37;
 
 Console.WriteLine($"Hola {persona.Name} bienvenido. Tu Id es {persona.Id} y tu edad es {persona.Age}"); 
 
-Console.WriteLine("Ahora puedes hacer eso y mas.");
+Console.WriteLine("Ahora puedes hacer eso y mas. Programador principal");
