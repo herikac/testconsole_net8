@@ -5,5 +5,7 @@ fraudulentOrderIDs[2]="12";
 fr
 audulentOrderIDs[3]="sdfs1d2";
 */
-Console.WriteLine(fraudulentOrderIDs.Length);
-Console.WriteLine("Hola prueba");
+//Console.WriteLine(fraudulentOrderIDs.Length);
+var persona =new Person();
+persona.Name = "Herik";
+Console.WriteLine($"Hola {persona.Name}");
